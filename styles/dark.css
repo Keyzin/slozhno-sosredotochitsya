@@ -28,7 +28,7 @@
     --accent-color-hover: rgba(255 0 112 / 0.4);
   }
 
-  .page.theme_dark {
+  .page {
     background-image: url(../images/cover-image-dark.png);
   }
 }
