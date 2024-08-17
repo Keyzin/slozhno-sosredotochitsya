@@ -14,7 +14,8 @@
 }
 
 .page.theme_light {
-  background-image: url(../images/cover-image-light.png);
+  background-image: var(--image-light);
+  background-color: #fff;
 }
 
 .page.theme_light .header-decor {
@@ -33,7 +34,8 @@
   }
 
   .page {
-    background-image: url(../images/cover-image-light.png);
+    background-image: var(--image-light);
+    background-color: #fff;
   }
 
   .page.theme_auto .header-decor {
